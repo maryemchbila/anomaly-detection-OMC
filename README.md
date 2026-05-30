@@ -18,7 +18,6 @@ Raw OMC counters from a Senegalese LTE operator.
 ## Notebooks
 | Notebook | Description |
 |----------|-------------|
-| `P2M_Nettoyage.ipynb` | Data preprocessing & feature engineering |
 | `P2M_Finale.ipynb` | Anomaly detection & KPI prediction models |
 | `Streamlit_P2M.ipynb` | Interactive dashboard (Streamlit + ngrok) |
 
